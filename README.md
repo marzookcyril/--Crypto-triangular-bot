@@ -8,7 +8,7 @@ This Python script is a simple crypto arbitrage bot that leverages the Binance A
 
 Before running the script, make sure to provide your Binance API key and secret:
 
-```python
+python
 api_key = ""
 api_secret = ""
 
